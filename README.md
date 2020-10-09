@@ -28,7 +28,6 @@ https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.s
 
 ***
 
-
 #### More about me:
 
 - Airsoft is my hobby and passion. I'm working on a small business with a friend related to this.
