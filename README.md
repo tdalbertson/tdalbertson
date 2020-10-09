@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with creating bigger projects.
 - 📫 How to reach me: [tdalbertson@gmail.com](mailto:tdalbertson@gmail.com)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I lived in Kyoto, Japan for 1 year and have a degree in Japanese Language & Literature.
+- ⚡ Fun fact: I lived in Kyoto, Japan for 1 year and have a Bachelor's degree in Japanese Language & Literature.
 
 ***
 
