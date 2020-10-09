@@ -22,7 +22,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="
-https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="45" height="45">
+https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="linux" width="45" height="45" />
 </p>
 
