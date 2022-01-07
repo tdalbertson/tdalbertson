@@ -6,7 +6,6 @@
 
 ### Some facts about me:
 
-- 🔭 I’m currently working on a second degree in Computer Science at Sacramento City College.
 - 🌱 I’m currently learning Python, C++, Shell Scripting, and Swift.
 - 🤔 I’m looking for help with creating bigger projects.
 - 📫 How to reach me: [tdalbertson@gmail.com](mailto:tdalbertson@gmail.com)
