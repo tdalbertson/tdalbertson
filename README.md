@@ -1,12 +1,12 @@
 <h1 align="center">Greetings, I'm Tim Albertson 👋</h1>
-<h3 align="center">Self-taught programmer and Computer Science major in Sacramento, CA</h3>
+<h3 align="center">Self-taught programmer in Sacramento, CA</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tdalbertson" alt="tdalbertson" /> </p>
 <br>
 
 ### Some facts about me:
 
-- 🌱 I’m currently learning Python, C++, Shell Scripting, and Swift.
+- 🌱 I’m currently learning Python.
 - 🤔 I’m looking for help with creating bigger projects.
 - 📫 How to reach me: [tdalbertson@gmail.com](mailto:tdalbertson@gmail.com)
 - 😄 Pronouns: He / Him
