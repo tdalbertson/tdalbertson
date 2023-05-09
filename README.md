@@ -7,8 +7,7 @@
 ### Some facts about me:
 
 - 🌱 I’m currently learning Web Development.
-- 🤔 I’m looking for help with creating bigger projects.
-- 📫 How to reach me: [tdalbertson@gmail.com](mailto:tdalbertson@gmail.com)
+- 🤔 I’m just trying to learn as much as I can for now.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I lived in Kyoto, Japan for 1 year and have a Bachelor's degree in Japanese Language & Literature.
 
@@ -28,7 +27,6 @@
 
 #### More about me:
 
-- Airsoft is my hobby and passion. I'm working on a small business with a friend related to this.
 - Watching movies and talking about them.
 - Watching tech videos and device repair videos.
 - Shoes and streetwear.
